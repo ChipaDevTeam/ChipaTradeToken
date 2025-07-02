@@ -1,0 +1,31 @@
+{
+  "id": "chipatradetoken",
+  "symbol": "chipa",
+  "name": "ChipaTradeToken",
+  "asset_platform_id": "solana",
+  "platforms": {
+    "solana": "H7MXNcAnsriPMkvRsQ5fz3dHmuYMwVx1ocA43bfE11tn"
+  },
+  "detail_platforms": {
+    "solana": {
+      "decimal_place": 9,
+      "contract_address": "H7MXNcAnsriPMkvRsQ5fz3dHmuYMwVx1ocA43bfE11tn"
+    }
+  },
+  "description": {
+    "en": "A gold-backed token with 0.25% transfer fees built on SPL Token 2022. Each CHIPA token represents fractional ownership of physical gold reserves, providing stable value backed by precious metals."
+  },
+  "links": {
+    "homepage": [
+      "https://github.com/ChipaTradeToken/chipa-trade-token"
+    ],
+    "blockchain_site": [
+      "https://solscan.io/token/H7MXNcAnsriPMkvRsQ5fz3dHmuYMwVx1ocA43bfE11tn"
+    ]
+  },
+  "image": {
+    "thumb": "https://chipadevteam.github.io/ChipaTradeToken/chipa-logo.jpg",
+    "small": "https://chipadevteam.github.io/ChipaTradeToken/chipa-logo.jpg",
+    "large": "https://chipadevteam.github.io/ChipaTradeToken/chipa-logo.jpg"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "chainId": 101,
+  "address": "H7MXNcAnsriPMkvRsQ5fz3dHmuYMwVx1ocA43bfE11tn",
+  "symbol": "CHIPA",
+  "name": "ChipaTradeToken",
+  "decimals": 9,
+  "logoURI": "https://chipadevteam.github.io/ChipaTradeToken/chipa-logo.jpg",
+  "tags": [
+    "gold-backed",
+    "utility",
+    "fees",
+    "spl-token-2022"
+  ],
+  "extensions": {
+    "description": "A gold-backed token with 0.25% transfer fees built on SPL Token 2022. Each CHIPA token represents fractional ownership of physical gold reserves, providing stable value backed by precious metals.",
+    "website": "https://github.com/ChipaTradeToken/chipa-trade-token",
+    "transferFeeEnabled": true,
+    "transferFeeBasisPoints": 25,
+    "metadataUri": "https://chipadevteam.github.io/ChipaTradeToken/chipa-metadata.json"
+  }
+}
