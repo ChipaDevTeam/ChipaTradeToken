@@ -2,7 +2,7 @@
   "name": "ChipaTradeToken",
   "symbol": "CHIPA",
   "description": "A gold-backed token with 0.25% transfer fees built on SPL Token 2022. Each CHIPA token represents fractional ownership of physical gold reserves, providing stable value backed by precious metals.",
-  "image": "https://your-domain.com/chipa-logo.jpg",
+  "image": "https://chipadevteam.github.io/ChipaTradeToken/chipa-logo.jpg",
   "external_url": "https://github.com/ChipaTradeToken/chipa-trade-token",
   "attributes": [
     {
@@ -41,7 +41,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://your-domain.com/chipa-logo.jpg",
+        "uri": "https://chipadevteam.github.io/ChipaTradeToken/chipa-logo.jpg",
         "type": "image/jpeg"
       }
     ],
